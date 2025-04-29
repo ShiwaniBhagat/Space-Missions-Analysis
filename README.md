@@ -91,4 +91,13 @@ Each plot is designed to be:
 - SciPy (for basic descriptive statistics)
 
 ---
+# Images
 
+
+![Screenshot (141)](https://github.com/user-attachments/assets/ebde3704-45ba-4a71-afae-011bfedf8bb7)
+![Screenshot (140)](https://github.com/user-attachments/assets/9682011f-e3c5-4b6f-a8cb-b8a1399ad70a)
+![Screenshot (139)](https://github.com/user-attachments/assets/8a72ba7e-b50e-4365-b5ac-a1a7634186c0)
+![Screenshot (138)](https://github.com/user-attachments/assets/154d3f2c-def1-4da7-a290-935067dd150a)
+![Screenshot (137)](https://github.com/user-attachments/assets/15616fd9-5821-4e33-95d6-6f661e03e67a)
+![Screenshot (136)](https://github.com/user-attachments/assets/dc7693a7-6851-40e8-a8cb-69d04925990b)
+![Screenshot (135)](https://github.com/user-attachments/assets/d39dffdd-a0e6-45f8-8f50-95f82b8d3c56)
